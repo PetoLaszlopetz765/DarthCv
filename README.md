@@ -1,2 +1,2 @@
 # DarthCv
-Funny CV for Darth Vader
+Funny Hungarian CV for Darth Vader
